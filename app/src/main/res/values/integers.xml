@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer name="anim_auth_code_field_fade">300</integer>
+
+    <integer name="anim_flip_duration">400</integer>
+    <integer name="anim_flip_duration_half">200</integer>
+    <integer name="anim_fade_duration">400</integer>
+    <integer name="anim_slide_vertical_duration">200</integer>
+    <integer name="anim_slide_horizontal_duration">300</integer>
+
+    <integer name="bonus_card_qr_corner_radius">25</integer>
+
+
+    <item name="nav_disabled_alpha" format="float" type="dimen">0.4</item>
+
+</resources>

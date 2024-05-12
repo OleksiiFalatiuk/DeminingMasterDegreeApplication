@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="accent">#ff76a9ff</color>
+    <color name="accentContent">#FFFFFF</color>
+    <color name="background">#f6f8fa</color>
+    <color name="inputBackground">#f2f6fa</color>
+    <color name="primary">#FFFFFF</color>
+    <color name="accentSecondary">#ebf2ff</color>
+    <color name="text">#364152</color>
+    <color name="disabled">#9aa4b2</color>
+    <color name="darkText">#697586</color>
+    <color name="input">#e5eaf1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#131313</color>
+    <color name="colorError">#F04438</color>
+    <color name="green">#228B22</color>
+    <color name="yellow">#FFAA33</color>
 </resources>

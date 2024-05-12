@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">DeminingApplication</string>
+    <string name="app_name" translatable="false">Розмінування територій</string>
+    <string name="client_id" translatable="false">531917819317-mii0ass6u279i5pisk8c4b1ut8nf3lub.apps.googleusercontent.com</string>
 </resources>
